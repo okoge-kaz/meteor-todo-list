@@ -29,4 +29,7 @@ https://ant.design/docs/react/introduce#Installation
 
 ## Warnings
 
+- `export default function name`   
+この書き方は、Next.jsの場合はうまくいくがMeteorでは上手くいかないらしい。
+
 ## 

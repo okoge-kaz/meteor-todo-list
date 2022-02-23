@@ -13,6 +13,9 @@
 4. start app   
 `$ meteor run`
 
+5. add `dev-error-overlay`   
+`$ meteor add dev-error-overlay`   
+(Meteor Tutorialより)
 ## Docs
 
 - Meteor + TypeScript + React Application  
